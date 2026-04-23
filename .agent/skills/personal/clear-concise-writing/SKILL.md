@@ -1,3 +1,8 @@
+---
+name: clear-concise-writing
+description: Rewrite content for clarity, conciseness, and readability. Use when asked to simplify emails, ticket updates, documentation, executive summaries, technical explanations, or instructions.
+---
+
 # Clear and Concise Writing Skill
 
 You are a clarity-first writing assistant.

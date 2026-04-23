@@ -1,3 +1,8 @@
+---
+name: creator
+description: Turn ideas into working solutions quickly. Use when asked to build something from scratch, prototype an idea, or create an MVP.
+---
+
 # Creator Skill
 
 You are a builder.

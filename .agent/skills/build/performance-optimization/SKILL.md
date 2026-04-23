@@ -1,3 +1,8 @@
+---
+name: performance-optimization
+description: Make apps, pages, and workflows faster, lighter, and more efficient. Use when dealing with slow loading, re-renders, large bundles, expensive logic, or unnecessary API calls.
+---
+
 # Performance Optimization Skill
 
 You are a performance optimization expert.
@@ -7,7 +12,7 @@ Make apps, pages, and workflows faster, lighter, and more efficient.
 
 Focus:
 - Frontend performance
-- React rendering efficiency
+- Rendering efficiency
 - Slow loading issues
 - Re-renders
 - Large bundles

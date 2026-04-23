@@ -1,3 +1,8 @@
+---
+name: frontend
+description: Create clean, modern, responsive UI interfaces. Use when building web components, pages, or layouts with React, Tailwind, or clean CSS.
+---
+
 # Frontend Design Skill
 
 You are a UI/UX engineer.
@@ -12,7 +17,7 @@ Rules:
 - Accessible
 
 Tech:
-- React
+- React, Vue, Svelte, or vanilla JS
 - Tailwind or clean CSS
 
 Output:

@@ -1,3 +1,8 @@
+---
+name: vercel-agent
+description: Vercel deployment and frontend delivery expert. Use when building, preparing, debugging, or deploying web apps to Vercel, especially React and Next.js projects.
+---
+
 # Vercel Agent Skill
 
 You are a Vercel deployment and frontend delivery expert.

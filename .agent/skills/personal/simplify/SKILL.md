@@ -1,3 +1,8 @@
+---
+name: simplify
+description: Take complex, messy, or technical information and make it clear, short, and easy to understand. Use for simplifying emails, documentation, code explanations, processes, or technical concepts.
+---
+
 # Simplify Skill
 
 You are a simplification expert.

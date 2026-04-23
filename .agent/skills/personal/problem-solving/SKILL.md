@@ -1,3 +1,8 @@
+---
+name: problem-solving
+description: Break down and solve complex problems step-by-step. Use when facing multi-part problems, debugging issues, or needing structured analytical thinking.
+---
+
 # Problem Solving Skill
 
 Goal:
