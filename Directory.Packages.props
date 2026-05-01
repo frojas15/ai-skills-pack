@@ -1,0 +1,39 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Existing packages (extracted from .csproj files) -->
+    <PackageVersion Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0" />
+    <PackageVersion Include="Azure.Storage.Blobs" Version="12.19.1" />
+    <PackageVersion Include="AWSSDK.S3" Version="3.7.305.23" />
+    <PackageVersion Include="SendGrid" Version="9.29.3" />
+    <PackageVersion Include="Microsoft.Identity.Web" Version="2.17.5" />
+    <PackageVersion Include="Microsoft.Identity.Web.UI" Version="2.17.5" />
+    <PackageVersion Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageVersion Include="QuestPDF" Version="2024.3.4" />
+    <PackageVersion Include="FsCheck.Xunit" Version="2.16.6" />
+    <PackageVersion Include="Moq" Version="4.20.70" />
+    <PackageVersion Include="Microsoft.Playwright" Version="1.44.0" />
+    <PackageVersion Include="Deque.AxeCore.Playwright" Version="4.9.1" />
+
+    <!-- Bumped versions -->
+    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
+    <PackageVersion Include="xunit" Version="2.6.6" />
+    <PackageVersion Include="xunit.runner.visualstudio" Version="2.8.0" />
+
+    <!-- New packages -->
+    <PackageVersion Include="coverlet.collector" Version="6.0.2" />
+    <PackageVersion Include="bunit" Version="1.28.9" />
+    <PackageVersion Include="Xunit.SkippableFact" Version="1.4.13" />
+    <PackageVersion Include="Microsoft.AspNetCore.Mvc.Testing" Version="8.0.0" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore.InMemory" Version="8.0.0" />
+    <PackageVersion Include="AspNetCore.HealthChecks.SqlServer" Version="2.2.0" />
+    <PackageVersion Include="AspNetCore.HealthChecks.UI.Client" Version="8.0.1" />
+    <PackageVersion Include="Serilog.AspNetCore" Version="8.0.0" />
+    <PackageVersion Include="Serilog.Formatting.Compact" Version="2.0.0" />
+    <PackageVersion Include="Serilog.Sinks.File" Version="5.0.0" />
+  </ItemGroup>
+</Project>
